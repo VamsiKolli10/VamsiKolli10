@@ -13,7 +13,7 @@ My current work focuses on integrating **LLMs with traditional software systems*
 - **Frontend:** React, TypeScript, JavaScript, Redux
 - **Data:** PostgreSQL, MySQL, MongoDB, Redis
 - **Distributed Systems:** Kafka, event-driven architecture, caching, message queues
-- **Cloud & DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
 - **Testing:** PyTest, integration testing, API testing, automated testing
 
 ## Featured Projects
@@ -31,6 +31,7 @@ Key engineering areas:
 - FastAPI microservices
 - PostgreSQL-backed financial workflows
 - React/TypeScript financial dashboard
+- Kubernetes deployment with validated Terraform for EKS, RDS, ElastiCache, MSK, and ECR
 - API gateway and authentication
 - Testing and CI
 
@@ -86,7 +87,7 @@ I'm continuing to deepen my work in:
 - AI agents and tool calling
 - Distributed backend architecture
 - Observability and reliability
-- AWS and Terraform cloud infrastructure
+- Cloud operations, cost management, and production observability
 
 ## Connect
 
