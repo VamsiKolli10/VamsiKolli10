@@ -13,7 +13,7 @@ My current work focuses on integrating **LLMs with traditional software systems*
 - **Frontend:** React, TypeScript, JavaScript, Redux
 - **Data:** PostgreSQL, MySQL, MongoDB, Redis
 - **Distributed Systems:** Kafka, event-driven architecture, caching, message queues
-- **Cloud & DevOps:** Docker, GitHub Actions, CI/CD
+- **Cloud & DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD
 - **Testing:** PyTest, integration testing, API testing, automated testing
 
 ## Featured Projects
@@ -86,7 +86,7 @@ I'm continuing to deepen my work in:
 - AI agents and tool calling
 - Distributed backend architecture
 - Observability and reliability
-- Kubernetes and AWS cloud-native deployment
+- AWS and Terraform cloud infrastructure
 
 ## Connect
 
